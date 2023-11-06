@@ -1,4 +1,4 @@
-This is the lab respository of [Guo Lab](https://www.guolab.mit.edu/) at the Deparment of Mechanical Engineering, MIT
+# The official repository of [Guo Lab](https://www.guolab.mit.edu/) at MIT
 
 <!---
 GuoLab-CellMechanics/GuoLab-CellMechanics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
